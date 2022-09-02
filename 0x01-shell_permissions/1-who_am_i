@@ -1,2 +1,2 @@
-#!/bin/bas
-who am i
+#!/bin/bash
+whoami
