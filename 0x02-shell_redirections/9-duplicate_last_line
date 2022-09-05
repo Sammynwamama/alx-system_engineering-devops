@@ -1,2 +1,2 @@
-#!/bin/vash
-echo -en “” | tail —lines=1 iacata >> iacata
+#!/bin/bash
+find . -name ‘*.js’ -type f -delete 
