@@ -1,2 +1,2 @@
-#!/bin/bash
-tail -1 iacta >> iactat
+#1/bin/vash
+echo -en “” | tail —lines=1 iacata >> iacata
